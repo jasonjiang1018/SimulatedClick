@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">模拟点击</string>
+    <string name="click_window_screen">CheckIn</string>
+    <string name="unlock">解锁</string>
+    <string name="start_check">检查时间</string>
+</resources>
